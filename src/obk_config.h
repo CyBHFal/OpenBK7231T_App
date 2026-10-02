@@ -3,7 +3,7 @@
 //
 #ifndef OBK_CONFIG_H
 #define OBK_CONFIG_H
-
+ 
 #define OBK_VARIANT_DEFAULT						0
 #define OBK_VARIANT_BERRY						1
 #define OBK_VARIANT_TUYAMCU						2
